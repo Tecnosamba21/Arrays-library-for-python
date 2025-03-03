@@ -5,7 +5,7 @@ HERE = pathlib.Path(__file__).parent
 
 VERSION = '0.0.1'
 PACKAGE_NAME = 'Array_utilities'
-AUTHOR = 'Nicolás Santísima Trinidad Santín'
+AUTHOR = 'TecnoSamba21'
 AUTHOR_EMAIL = 'sannicolas2121@outlook.com' #Modificar con vuestros datos
 
 LICENSE = 'MIT'
