@@ -1,4 +1,4 @@
-# Library autor: Nicolás Santísima Trinidad Santín
+# Library autor: TecnoSamba21
 # Created: 16/06/2024
 # Python 3
 # Using: Visual Studio Code by Microsoft
