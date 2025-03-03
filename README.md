@@ -1,5 +1,5 @@
 # Arrays_Utilities-base
-A library created by Nicolás Santísima Trinidad Santín
+A library created by TecnoSamba21
 
 I know that working with arrays in python is so hard, so I made a library to make easier this work.
 
